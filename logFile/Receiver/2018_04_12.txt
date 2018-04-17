@@ -1,0 +1,1 @@
+2018_04_12 | dump_1.csv Dump File Moved to New Read Directory.

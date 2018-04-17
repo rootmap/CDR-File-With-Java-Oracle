@@ -1,0 +1,755 @@
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | DB initialize problem: oracle.jdbc.OracleDriver
+2018_04_17 | Database connection failed!
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | DB initialize problem: oracle.jdbc.OracleDriver
+2018_04_17 | Database connection failed!
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | DB initialize problem: oracle.jdbc.OracleDriver
+2018_04_17 | Database connection failed!
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | DB initialize problem: oracle.jdbc.OracleDriver
+2018_04_17 | Database connection failed!
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | DB initialize problem: oracle.jdbc.OracleDriver
+2018_04_17 | Database connection failed!
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | DB initialize problem: oracle.jdbc.OracleDriver
+2018_04_17 | Database connection failed!
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | DB initialize problem: oracle.jdbc.OracleDriver
+2018_04_17 | Database connection failed!
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | DB initialize problem: oracle.jdbc.OracleDriver
+2018_04_17 | Database connection failed!
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | DB initialize problem: oracle.jdbc.OracleDriver
+2018_04_17 | Database connection failed!
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | DB initialize problem: oracle.jdbc.OracleDriver
+2018_04_17 | Database connection failed!
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : null
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00911: invalid character
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
+2018_04_17 | Exception : ORA-00904: "CDR_IDENTIFIER": invalid identifier
+
